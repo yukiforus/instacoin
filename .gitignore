@@ -1,0 +1,20 @@
+# System Cruft
+# ================================================
+.DS_Store
+*.swp
+*.swo
+
+# secret stuff
+# ================================================
+secrets.json
+
+# Generated stuff
+# ================================================
+build
+node_modules
+secrets.json
+
+
+# Other
+# ================================================
+bower_components

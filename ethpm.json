@@ -1,0 +1,13 @@
+{
+  "package_name": "tokens",
+  "version": "1.0.0",
+  "description": "Ethereum Token Contracts",
+  "authors": [
+    "Yuki <yuki@instapay.kr>"
+  ],
+  "keywords": [
+    "tokens",
+    "consensys"
+  ],
+  "license": "MIT"
+}
