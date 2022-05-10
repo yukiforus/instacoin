@@ -1,5 +1,5 @@
 # ERC-20 instaCoin
-[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/yukiforus/instacoin/LICENSE)
+[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/yukiforus/instacoin/blob/master/LICENSE)
 
 ![instaCoin](instacoin.jpg)
 
