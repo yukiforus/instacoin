@@ -11,5 +11,5 @@ This repo contains Solidity smart contract code for ERC-20 implementation.
 
 ## Whitepaper
 
-[Read here](https://s3.ap-northeast-2.amazonaws.com/instacoins.io/doc/White+Paper_INSTACOIN(en)_v1.pdf)
+[Read here](https://instacoin.s3.ap-northeast-2.amazonaws.com/INSTACOIN_WhitePaper_v2.0_KR.pdf)
 
