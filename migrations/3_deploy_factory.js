@@ -1,3 +1,4 @@
+
 const EIP20Factory =
   artifacts.require('./EIP20Factory.sol');
 
